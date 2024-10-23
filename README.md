@@ -4,10 +4,10 @@
 
 I haven't had time to organize it better yet, so I've only included all the code from the final project for now. This also contains some regular homework assignments. Of course, there are also some libraries that I haven't included, such as GLEW, which can be downloaded from LearnOpenGL. Thanks.
 
-里面的很多代码在网上都可以找到参考或者源码，由于时间过久，已经忘记了当时找的其他作者，也是实在抱歉。
-
-Many of the codes in this project can be found online as references or source code. Since it has been a long time, I have forgotten the other authors I referred to at the time. I also sincerely apologize for this.
-
 当时使用的ide是 VS2022
 
 The ide I used that time is VS2022.
+
+仓促记于2024.10.23，后续有空再整理参考代码、库以及其他一些文件等，感谢浏览。
+
+Hastily noted on October 23, 2024. I will organize the reference code, libraries, and other files later when I have more time. Thank you for viewing.
